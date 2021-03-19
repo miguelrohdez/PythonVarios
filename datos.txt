@@ -1,0 +1,25 @@
+PAMELA|ARIZAGA|GONZALEZ|Administración|pamm.gla@gmail.com|01/08/1997
+GIOVANNI|ALMAZAN|GARCIA|Sistemas|gio.almazan.garcia@gmail.com|02/08/1997
+ROSA ELENA|ANAYA|BADILLO|Mecatrónica|rosa.elena1996@hotmail.com|03/08/1997
+RAMSES|BENAVIDEZ|DURAN|Computación|123ization@gmail.com|04/08/1997
+CASSANDRA|CEBALLOS|TEJADA|Administración de Empresas|tejada.cassandra12@gmail.com|05/08/1997
+RAUL ADRIAN|DOMINGUEZ|BADILLO|Computación|adriansilverslatter@gmail.com|06/08/1997
+LUIS DIEGO|DIAZ|CORTES|Informática|dieli.2131@gmail.com|07/08/1997
+ERICK VIRGILIO|DIAZ|FRANCO|Computación|diazf.erick@gmail.com|08/08/1997
+JOSE CARLOS|GUERRERO|SANCHEZ|Electrónica|jc.guesa@gmail.com|09/08/1997
+IRAIS|HERNANDEZ|PEREZ|Sistemas||10/08/1997
+JOSUE DANIEL|HERNANDEZ|SANTIAGO|Computación|danielhs.gunner@gmail.com|11/08/1997
+ELSA XIMENA|HERRERA|GARCIA|Informática|elxihg@gmail.com|12/08/1997
+SANDRA CECILIA|ISLAS|ORTEGA|Computación|sandracislas@gmail.com|13/08/1997
+ALEXIS GABRIEL|JIMENEZ|VILLEGAS|Geomatica|alexis.villegas.j@gmail.com|15/03/1995
+FRANCISCO EDER|MENDOZA|SANTOS|Computación|elite_eder30@hotmail.com|16/03/1995
+JOSE LEONARDO|OCHOA|NAVA|Computación|leo8aeva01@hotmail.com|17/03/1995
+OMAR|OROZCO|CALDERON|Computación|omar.oro.oc@gmail.com|18/03/1995
+MARIANO|ORTEGA|PLASCENCIA|Informática|marianosftp@gmail.com|19/03/1995
+ATONATIUH IVAN|QUIÑONES|VARGAS|Informática|ivanov@live.com.mx|20/03/1995
+JORGE NATHANIEL|RADILLA|MALDONADO|Mecatrónica|nathaniel.radilla@gmail.com|10/10/1996
+JULIO RAUL|RODRIGUEZ|RUIZ|Computación|super_rulaz@hotmail.com|11/10/1996
+MARIO ALBERTO|RODRIGUEZ|MARIN|Computación|marioa_bros@hotmail.com|12/10/1996
+LUIS FERNANDO|ROJAS|FLORES|Computación|lfernandorojasf@gmail.com|25/12/1985
+CLEMENTE DAVID|VALENCIA|ROMERO|Informática|dvidvlencia@gmail.com|20/05/1985
+JORGE|VARGAS|VALENCIA|Mecánica|96vjrg@gmail.com|01/01/2000
